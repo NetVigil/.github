@@ -17,3 +17,5 @@ At NetVigil, our vision is to enhance the gaming experience by delivering effect
 
 
 With ❤️ from 🇪🇸
+
+![Discord](https://img.shields.io/discord/1282719766401777695?label=Discord%20Server&logo=discord&color=7289DA)

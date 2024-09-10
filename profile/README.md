@@ -17,5 +17,3 @@ At NetVigil, our vision is to enhance the gaming experience by delivering effect
 
 
 With ❤️ from 🇪🇸
-
-<iframe src="https://discord.com/widget?id=1282719766401777695&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

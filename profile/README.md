@@ -1,6 +1,7 @@
 Welcome to NetVigil 🎮🔒
 
 At NetVigil, we are dedicated to revolutionizing the gaming experience by creating cutting-edge solutions for FiveM and Minecraft. Our focus is on enhancing security and fairness through innovative anti-cheat systems and advanced tools to combat VPN and proxy usage. Our mission is to ensure a level playing field and a secure gaming environment for all players and server administrators.
+
 Our Projects
 
 1. Anti-Cheat System for FiveM and Minecraft 🛡️💻
